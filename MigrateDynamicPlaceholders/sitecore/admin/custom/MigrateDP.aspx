@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MigrateDP.aspx.cs" Inherits="MigrateDynamicPlaceholders.sitecore.admin.custom.MigrateDP" %>
